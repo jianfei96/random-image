@@ -7,5 +7,5 @@ a random image viewer
    
 ## 使用说明
    - 图片放在img文件夹下，后缀可以是jpg,png,jpeg。小写大写后缀都可以。
-   - 或者你也可以使用软连接`ln -s path/to/your/images /path/to/random-image/img`
+   - 或者你也可以使用软链接`ln -s path/to/your/images /path/to/random-image/img`
    - 直接引用`<img src="http://your_domain/api.php">`
